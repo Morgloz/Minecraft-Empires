@@ -1,0 +1,21 @@
+[
+{
+  "modid": "MinecraftEmpires",
+  "name": "Minecraft Empires",
+  "description": "Work in progress",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Morgloz"
+  ],
+  "credits": "To Pahimar, he showed me how to mod properly",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
