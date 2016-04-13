@@ -1,7 +1,6 @@
 package com.morgloz.minecraftempires.proxy;
 
-/**
- * Created by Alejandro on 12/04/2016.
- */
-public interface IProxy {
+
+public interface IProxy
+{
 }
